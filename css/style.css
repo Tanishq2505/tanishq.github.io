@@ -6771,6 +6771,10 @@ animation: blink 0.7s infinite;
     width: 100%;
     height: 100%;
 }
+.img-about {
+
+    height: 50%;
+}
 .img-url,
 .img-url.to-2x {
     top: -100%;
